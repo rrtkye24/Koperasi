@@ -23,8 +23,8 @@ class CreateAnggotasTable extends Migration
             $table->string('status_menikah');
             $table->string('nama_pasangan');
             $table->integer('no_tlp',13);
+            $table->integer('no_tlp',13);
             $table->string('tmp_daftar');
-            $table->string('inisial')->nullable();
             $table->integer('status');
             $table->timestamps();
         });
