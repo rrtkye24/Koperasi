@@ -1,2 +1,0 @@
-# Koperasi
-koperasi aplication
